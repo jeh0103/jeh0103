@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=안녕%🙌&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=안녕🙌&fontSize=90)
 
 <!--
 **jeh0103/jeh0103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
